@@ -1,2 +1,2 @@
 # chess
-Cross device chess implementation. 
+Cross device chess implementation!
